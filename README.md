@@ -1,2 +1,2 @@
 # intheritance-Java
-Memaukkan data ulang tahun
+Memasukkan data ulang tahun
